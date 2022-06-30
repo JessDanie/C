@@ -1,4 +1,5 @@
 #include <stdio.h>
+//https://github.com/JessDanie/C
 #define MAX 10001
 
 inline int min(int x, int y){

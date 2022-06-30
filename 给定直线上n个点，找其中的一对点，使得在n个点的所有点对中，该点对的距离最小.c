@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 #include<stdint.h>
 int main(){
     int q, p, min_i, min_j, min = INT32_MAX, Tmp;

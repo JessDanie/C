@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 int N, K;
 
 void quicksort(int *A, int Left, int Right){

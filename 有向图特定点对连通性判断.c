@@ -1,4 +1,5 @@
 #include <stdio.h>
+//https://github.com/JessDanie/C
 #include <stdbool.h>
 
 bool matrix[1001][1001] = {0}; //邻接矩阵

@@ -1,4 +1,5 @@
 #include <stdio.h>
+//https://github.com/JessDanie/C
 #include <stdbool.h>
 #define N 501
 #define M 99999

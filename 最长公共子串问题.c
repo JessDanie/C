@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 
 int main(){
     int N1 = 0, N2 = 0, i, j, M_l = 0, M_p = 0;

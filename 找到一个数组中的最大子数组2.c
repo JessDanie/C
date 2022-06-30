@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 int main(){
     int Tmp, i = 0, sum = 0, maxSum = -2147483648, q = 0, p;
     do {

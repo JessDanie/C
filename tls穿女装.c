@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 int main(){
     int CG = 0;
     while(CG++ < 101){

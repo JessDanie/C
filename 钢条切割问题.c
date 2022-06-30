@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 /*
 int main(){
     FILE * f = fopen("a.txt", "w");

@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 int main(){
     int i = 0, n;
     short s, a, b, h, N = 0;//初始化S为0

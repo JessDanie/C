@@ -1,4 +1,5 @@
 #include<stdio.h>
+//https://github.com/JessDanie/C
 #include<string.h>
 
 char A[1000] = {'\0'}, B[1000] = {'\0'}, C[1000][1000]={'\0'}, R[1000][1000];
